@@ -16,6 +16,7 @@ import java.util.Arrays;
 
 @Aspect
 @Component
+//江湖
 public class LogAspect {
 
     private Logger logger = LoggerFactory.getLogger(LogAspect.class);
